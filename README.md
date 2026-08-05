@@ -1,6 +1,6 @@
 ## Hi, I am
-### Prasidh Shetty
-### UX/UI Designer, jack of all trades, master of one.
+  ### Prasidh Shetty
+  ### UX/UI Designer, jack of all trades, master of one.
 
 I read users across industries — ed-tech, automotive, e-commerce, energy. UX is where I go deep.
 
