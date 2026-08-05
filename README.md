@@ -1,46 +1,44 @@
-## Prasidh Shetty
+<img src="hero.png" alt="Prasidh Shetty — UX/UI Designer" width="100%">
 
-**UX/UI Designer, jack of all trades, master of one.**
+### UX/UI Designer, jack of all trades, master of one.
 
 I read users across industries — ed-tech, automotive, e-commerce, energy. UX is where I go deep.
 
 Most designers hand off a spec and hope. I'd rather build the thing and find out.
 
-Everything pinned below is working software I designed *and* shipped.
+**Everything pinned below is working software I designed _and_ shipped.**
 
----
+> **Specialty: human–AI interaction and explainable AI.**
 
-### What I'm actually good at
+> The hard problem isn't making a model smart. It's making someone trust it enough to hand over a real task.
 
-Turning research into decisions you can defend, then proving they worked.
+## Proof
 
-- Raised a study tool's System Usability Scale from **78.5 → 97.5** across three test rounds — the fix was never visual polish, it was making hidden AI capability visible
+| What I did | Result |
 
-- Analyzed **16,800 charging-station reviews across 171 networks** (RoBERTa + VADER + LLM thematic pass) to find a 20% tail of bad experiences that star ratings were hiding
+|---|---|
 
-- Shipped 4 end-to-end products at Studio Vitamin-D — **27% adoption lift**, **42%** of users rating a rebuilt platform more intuitive
+| Rebuilt an AI study tool across 3 rounds of usability testing | **SUS 78.5 → 97.5** — the fix was never visual polish, it was making hidden AI capability visible |
 
-Specialty: **human–AI interaction and explainable AI.** The hard problem isn't making a model smart. It's making someone trust it enough to hand over a real task.
+| Analyzed 16,767 charging-station reviews across 171 networks (RoBERTa + VADER + LLM coding) | Surfaced a **20% tail** of bad experiences that star ratings were hiding → 8 shippable features |
 
----
+| Shipped 4 end-to-end products at Studio Vitamin-D | **27% adoption lift**, **42%** of users rating a rebuilt platform more intuitive |
 
-### Stack
+## Stack
 
-**Design** — Figma · Maze · Framer · Adobe CC · design systems · WCAG
+**Design** &nbsp;`Figma` `Maze` `Framer` `Adobe CC` `design systems` `WCAG`
 
-**Build** — Python · FastAPI · React 18 + TypeScript · Vite · WebSockets · Anthropic API
+**Build** &nbsp;&nbsp;&nbsp;`Python` `FastAPI` `React 18 + TypeScript` `Vite` `WebSockets` `Anthropic API`
 
-**Data** — pandas · NumPy · XGBoost/LightGBM · RoBERTa/VADER · Google Colab
+**Data** &nbsp;&nbsp;&nbsp;&nbsp;`pandas` `NumPy` `XGBoost/LightGBM` `RoBERTa/VADER` `Colab`
 
----
+## Currently
 
-### Currently
-
-M.S. Human-Centered Design & Engineering @ University of Michigan–Dearborn (GPA 3.8, May 2027)
+**M.S. Human-Centered Design & Engineering** @ University of Michigan–Dearborn · GPA 3.8 · May 2027
 
 Co-author, *Enhancing UX & UI Design: Insights from E-Commerce* — peer-reviewed chapter, Springer 2025
 
-**Open to UX / Product Design roles and internships.** Remote, hybrid, or onsite.
+**Open to UX / Product Design roles and internships.** Remote, hybrid, or Detroit metro.
 
-[Portfolio](https://prasidhshettyportfolio.framer.website) · [LinkedIn](https://www.linkedin.com/in/prasidh-shetty-b4a69518b/) · prasidhshetty783@gmail.com
+[**Portfolio**](https://prasidhshettyportfolio.framer.website) · [**LinkedIn**](https://www.linkedin.com/in/prasidh-shetty-b4a69518b/) · prasidhshetty783@gmail.com
 
