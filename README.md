@@ -40,7 +40,7 @@ M.S. Human-Centered Design & Engineering @ University of Michigan–Dearborn (GP
 
 Co-author, *Enhancing UX & UI Design: Insights from E-Commerce* — peer-reviewed chapter, Springer 2025
 
-**Open to UX / Product Design roles and internships.** Remote, hybrid, or Detroit metro.
+**Open to UX / Product Design roles and internships.** Remote, hybrid, or onsite.
 
 [Portfolio](https://prasidhshettyportfolio.framer.website) · [LinkedIn](https://www.linkedin.com/in/prasidh-shetty-b4a69518b/) · prasidhshetty783@gmail.com
 
