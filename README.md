@@ -1,5 +1,3 @@
-<img src="hero.png" alt="Prasidh Shetty — UX/UI Designer" width="100%">
-
 ### UX/UI Designer, jack of all trades, master of one.
 
 I read users across industries — ed-tech, automotive, e-commerce, energy. UX is where I go deep.
@@ -15,8 +13,6 @@ Most designers hand off a spec and hope. I'd rather build the thing and find out
 ## Proof
 
 | What I did | Result |
-
-|---|---|
 
 | Rebuilt an AI study tool across 3 rounds of usability testing | **SUS 78.5 → 97.5** — the fix was never visual polish, it was making hidden AI capability visible |
 
