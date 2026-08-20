@@ -37,5 +37,5 @@ Co-author, *Enhancing UX & UI Design: Insights from E-Commerce* — peer-reviewe
 
 **Open to UX / Product Design roles and internships.** Remote, hybrid, or Detroit metro.
 
-[**Portfolio**](https://prasidhshettyportfolio.framer.website) · [**LinkedIn**](https://www.linkedin.com/in/prasidh-shetty-b4a69518b/) · prasidhshetty783@gmail.com
+[**Portfolio**]((https://prasidh-shetty.lovable.app/)) · [**LinkedIn**](https://www.linkedin.com/in/prasidh-shetty-b4a69518b/) · prasidhshetty783@gmail.com
 
